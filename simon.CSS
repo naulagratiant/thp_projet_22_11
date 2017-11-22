@@ -1,0 +1,54 @@
+
+#headerZone{
+	height: 150px;
+	text-align: center;
+}
+
+
+#playBtn{
+	height: 45px;
+	width: 105px;
+	background-color: orange;
+	color: #fff;
+	font-size: 14px;
+}
+#contcont{
+	display: flex;
+	justify-content: center;
+}
+
+#simonContainer{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 569px;
+
+
+}
+.fourButtons {
+
+	width:190px;
+	height:190px;
+
+}
+#bRed {
+
+	background-color:red;
+	border-radius: 0px 114px 0px 0px;
+
+}
+#bGreen {
+
+	background-color:green;
+	border-radius: 114px 0px 0px 0px;
+}
+#bYellow {
+
+	background-color:yellow;
+	border-radius: 0px 0px 0px 114px;
+}
+#bBlue {
+
+	background-color:blue;
+	border-radius: 0px 0px 114px 0px;
+}
